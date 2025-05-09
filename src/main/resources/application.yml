@@ -1,0 +1,14 @@
+cloud:
+  aws:
+    credentials:
+      access-key: test
+      secret-key: test
+
+spring:
+  kafka:
+      bootstrap-servers: ip:9092
+
+
+
+
+
